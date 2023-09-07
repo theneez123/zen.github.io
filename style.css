@@ -1,0 +1,22 @@
+/* Updated custom styles with light green primary color */
+body {
+    background-color: #f0f8ff; /* Light blue background color */
+}
+
+.navbar {
+    background-color: #98FB98; /* Light green navbar background color */
+}
+
+.jumbotron {
+    background-color: #98FB98; /* Light green jumbotron background color */
+}
+
+.btn-primary {
+    background-color: #98FB98; /* Light green button color */
+    border-color: #98FB98; /* Light green border color */
+}
+
+.btn-primary:hover {
+    background-color: #90EE90; /* Light green on hover */
+    border-color: #90EE90; /* Light green border on hover */
+}
